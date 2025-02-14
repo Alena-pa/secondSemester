@@ -12,3 +12,4 @@ C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0
 C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.pdb
 C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.genruntimeconfig.cache
 C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ref\ClassWork.dll
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.sourcelink.json
