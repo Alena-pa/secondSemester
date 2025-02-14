@@ -22,10 +22,7 @@ for (int i = 0; i < array2.Length; i++)
     }
 }
 
-for (var i = array.Length - 1; i >= 0; i--)
-{
-    Console.Write($"{array2[i]} ");
-}
+array2.ToList().ForEach(x => Console.Write($"{x} "));
 Console.WriteLine();
 
 for (var i = array.Length - 1; i >= 0; i--)
