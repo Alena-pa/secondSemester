@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.exe
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.deps.json
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.runtimeconfig.json
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.dll
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.pdb
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfo.cs
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.dll
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\refint\ClassWork.dll
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.pdb
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.genruntimeconfig.cache
+C:\Users\Marina\source\repos\secondSemester\ClassWork\ClassWork\obj\Debug\net8.0\ref\ClassWork.dll
