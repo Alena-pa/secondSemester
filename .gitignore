@@ -1,9 +1,45 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugBuild/
+[Dd]ebug/
 
-/.vs/secondSemester/v17
-/ClassWork/ClassWork/bin/Debug/net8.0
-/.vs
-/ClassWork/.vs
-/BurrowsWheeler/.vs/BurrowsWheeler
+# Ignore object files and compiled binaries
+obj/
+bin/
+
+# Ignore user-specific files
+.vs/
+.vscode/
+
+# Ignore temporary files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore other IDE files
+*.sublime-workspace
+*.sublime-project
+
+# Ignore specific Visual Studio files
+/.vs/
+/.vs2017/
+/.vs2019/
+
+# Ignore project-specific bin and obj folders
+/ClassWork/bin/
+/ClassWork/obj/
+/BurrowsWheeler/bin/
+/BurrowsWheeler/obj/
+
+# Ignore other specific directories if needed
+/ClassWork/.vs/
+/BurrowsWheeler/.vs/
