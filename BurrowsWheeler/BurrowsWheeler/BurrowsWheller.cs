@@ -18,7 +18,6 @@ public class BurrowsWheelerTransform
 
         int textLength = input.Length;
         var table = new string[textLength];
-
         for (int i = 0; i < textLength; i++)
         {
             table[i] = input.Substring(i) + input.Substring(0, i);
